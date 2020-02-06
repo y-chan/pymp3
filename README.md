@@ -1,4 +1,4 @@
-#pymp3
+# pymp3
 
 ## What is this?
 Rewrite [go-mp3](https://github.com/hajimehoshi/go-mp3) by python3.  
